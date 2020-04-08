@@ -3,7 +3,7 @@
     "file": "game:worldgen/deposits/rock/clay",
     "op": "replace",
     "path": "/0/triesPerChunk",
-    "value": 0.1
+    "value": 1
   },
   {
     "file": "game:worldgen/deposits/rock/clay",
@@ -15,7 +15,7 @@
     "file": "game:worldgen/deposits/rock/clay",
     "op": "replace",
     "path": "/1/triesPerChunk",
-    "value": 0.1
+    "value": 1
   },
   {
     "file": "game:worldgen/deposits/rock/clay",

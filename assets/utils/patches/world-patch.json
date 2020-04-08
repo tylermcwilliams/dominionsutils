@@ -10,5 +10,11 @@
     "op": "add",
     "path": "/enabled",
     "value": "false"
+  },
+{
+    "file": "game:worldgen/blockpatches",
+    "op": "add",
+    "path": "/enabled",
+    "value": "false"
   }
 ]
