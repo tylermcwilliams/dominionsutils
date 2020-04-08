@@ -1,0 +1,32 @@
+[
+  {
+    "file": "game:worldgen/deposits/mineralore/quartz",
+    "op": "replace",
+    "path": "/0/attributes/radius/avg",
+    "value": 96
+  },
+  {
+    "file": "game:worldgen/deposits/mineralore/quartz",
+    "op": "replace",
+    "path": "/0/childDeposits/0/attributes/radius/avg",
+    "value": 8
+  },
+  {
+    "file": "game:worldgen/deposits/mineralore/quartz",
+    "op": "replace",
+    "path": "/0/childDeposits/1/attributes/radius/avg",
+    "value": 8
+  },
+  {
+    "file": "game:worldgen/deposits/mineralore/quartz",
+    "op": "replace",
+    "path": "/0/childDeposits/0/attributes/triesPerChunk",
+    "value": 20
+  },
+  {
+    "file": "game:worldgen/deposits/mineralore/quartz",
+    "op": "replace",
+    "path": "/0/childDeposits/1/attributes/triesPerChunk",
+    "value": 40
+  }
+]

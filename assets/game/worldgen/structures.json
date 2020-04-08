@@ -1,0 +1,53 @@
+{
+  "chanceMultiplier": 0.4,
+  "structures": [
+    {
+      "code": "milky quartz vugs",
+      "name": "common",
+      "chance": 60,
+      "schematics": [ "vug/milkyquartz/*" ],
+      "placement": "underground",
+      "origin": "MiddleCenter",
+      "replaceWithRockType": {
+        "ore-quartz-granite": "ore-quartz-{rock}"
+      },
+      "insideBlockCodes": [ "ore-quartz-andesite", "ore-quartz-granite", "ore-quartz-basalt", "ore-quartz-peridotite", "ore-quartz-claystone", "ore-quartz-sandstone", "ore-quartz-shale", "ore-quartz-chalk", "ore-quartz-limestone", "ore-quartz-chert", "ore-quartz-conglomerate", "ore-quartz-phyllite", "ore-quartz-slate" ]
+    },
+    {
+      "code": "rose quartz vugs",
+      "name": "common",
+      "chance": 30,
+      "schematics": [ "vug/rosequartz/*" ],
+      "placement": "underground",
+      "origin": "MiddleCenter",
+      "replaceWithRockType": {
+        "ore-quartz-granite": "ore-quartz-{rock}"
+      },
+      "insideBlockCodes": [ "ore-quartz-andesite", "ore-quartz-granite", "ore-quartz-basalt", "ore-quartz-peridotite", "ore-quartz-claystone", "ore-quartz-sandstone", "ore-quartz-shale", "ore-quartz-chalk", "ore-quartz-limestone", "ore-quartz-chert", "ore-quartz-conglomerate", "ore-quartz-phyllite", "ore-quartz-slate" ]
+    },
+    {
+      "code": "smoky quartz vugs",
+      "name": "common",
+      "chance": 15,
+      "schematics": [ "vug/smokyquartz/*" ],
+      "placement": "underground",
+      "origin": "MiddleCenter",
+      "replaceWithRockType": {
+        "ore-quartz-granite": "ore-quartz-{rock}"
+      },
+      "insideBlockCodes": [ "ore-quartz-andesite", "ore-quartz-granite", "ore-quartz-basalt", "ore-quartz-peridotite", "ore-quartz-claystone", "ore-quartz-sandstone", "ore-quartz-shale", "ore-quartz-chalk", "ore-quartz-limestone", "ore-quartz-chert", "ore-quartz-conglomerate", "ore-quartz-phyllite", "ore-quartz-slate" ]
+    },
+    {
+      "code": "amethyst vugs",
+      "name": "common",
+      "chance": 8,
+      "schematics": [ "vug/amethyst/*" ],
+      "placement": "underground",
+      "origin": "MiddleCenter",
+      "replaceWithRockType": {
+        "ore-quartz-granite": "ore-quartz-{rock}"
+      },
+      "insideBlockCodes": [ "ore-quartz-andesite", "ore-quartz-granite", "ore-quartz-basalt", "ore-quartz-peridotite", "ore-quartz-claystone", "ore-quartz-sandstone", "ore-quartz-shale", "ore-quartz-chalk", "ore-quartz-limestone", "ore-quartz-chert", "ore-quartz-conglomerate", "ore-quartz-phyllite", "ore-quartz-slate" ]
+    }
+  ]
+}
